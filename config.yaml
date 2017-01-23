@@ -1,0 +1,8 @@
+url: http://gkvodoley.com.ua
+baseURL: http://gkvodoley.com.ua
+name: >
+  Производственно-коммерческое
+description: предприятие
+canonifyURLs: true
+theme: "hugo-bootstrap-premium"
+publishDir: "public"
